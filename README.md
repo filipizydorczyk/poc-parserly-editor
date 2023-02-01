@@ -2,6 +2,8 @@ This repository is not a project but a proof of concept for my other project [pa
 
 ![](overview.png)
 
+You can see how you can use this library in [file](./src/hooks/useMarkdownParser.tsx)
+
 I might update this repository if I add major changes to **parserly** just for testing and showcasing
 
 **Things to change**:
