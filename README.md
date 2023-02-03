@@ -10,3 +10,4 @@ I might update this repository if I add major changes to **parserly** just for t
 
 -   Failed to parse source map from '/mnt/commondisk/filip/Tests/parerly-tests/poc-parserly-editor/node_modules/parserly/src/utils.ts' file:
 -   Missing spaces from parsde paragraph
+-   Find a way to provide option to edit back source from created component
